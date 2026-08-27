@@ -14,6 +14,10 @@ public class StudentInfo {
     String address;
 
     public static void main(String[] args) {
+        // Reference variable or StudentInfo-type variable
+        StudentInfo st_1;
+        st_1 = new StudentInfo();
+
         System.out.println("Hello Java!");
 
 
