@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// https://github.com/Daps005
 public class StudentInfo {
     // Every java project will have only a and single main method
     // Method = grouping of relevant code and
